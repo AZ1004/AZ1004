@@ -65,7 +65,7 @@ My work spans CNNs, Vision Transformers, ensemble methods, self-supervised learn
 **Computer Vision:** ResNet · DenseNet · EfficientNet · VGG · Swin Transformer · YOLO · Faster R-CNN  
 **XAI & Evaluation:** Grad-CAM · SHAP · AUC · Sensitivity · Specificity  
 **Infrastructure:** HPC / Supercomputing clusters · Medical dataset management  
-**Languages:** Python · Java · R · SQL · JavaScript · Go  
+  
 
 ---
 
